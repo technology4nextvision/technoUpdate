@@ -1,0 +1,28 @@
+Symantec Interview Questions:
+
+ 
+Q1.Given the array of integers containing equal numbers of even and odd numbers,rearrange the array such that the even number is at even places and odd number is at odd places.[numbers need not to be sorted]
+[example] Input:[4 5 7 8 1 12 9] Output [4 5 8 7 12 1 9] 
+
+Q2.Write a program to reverse of a string using recursion method.
+[Hint]Don't use inbuilt API methods/functions
+[Example] "symantec"->"cetnamys"
+
+Q3.Write code  to reverse a sentence with whole words.Please refrain from using inbuilt programming constructors using string manipulations.
+[Example] " I love India"->"India love I".
+
+Q4.Write a program to add 2 numbers without using arithmetic "+" operator.
+
+Q5.Find the largest number in an array of 20 elements.
+
+Q6.Write a java programto insert the elements[4,3,15,6,7,8,10] into a Linked List and then remove the node "15" from the created Linked List.
+
+Q7.Write a program to create  your own "List" datastructure with basic operations add/fetch/remove methods alone.
+
+Q8.Find if two strings are anagrams.Use your own words,[E.g one and eon are anagrams -words formed by rearranging]
+
+Q9.Write a program to check if the given string/char array is numeric.
+[Example] "abcde"-false/"12345"-true/"abcS#12"-false
+
+Q10.Write a program to identify common numbers between two given arrays.
+[Example] Array1[2,3,12,34,45,12,11] Array2[3,55,11,33,44,13,15]
