@@ -1,0 +1,191 @@
+https://youtu.be/ot61Y-XAph4 (fibonacci)
+
+
+https://youtu.be/bbctLFyHg4w  (finding factorial)
+
+
+https://youtu.be/IAQRNykijoY  (reverse a number)
+
+
+https://youtu.be/95nE0v9yn4M    (Write a Program to Check the Given Number is a Prime Number or Not
+
+
+
+https://youtu.be/MT9NLQZmywM   (Java Program Print Prime Numbers)
+
+
+
+https://youtu.be/GCdPserpAr4 (Java Program to Find Largest  Number in N numbers)
+
+
+
+https://youtu.be/vGI9Vqh0dWs  (Java Program For Displaying Numbers in Ascending Order)
+
+
+https://youtu.be/KMuE_gkjMTk  (Displaying the Lowest Number in Java)
+
+
+https://youtu.be/pOW1VVBS73o   (Subtracting Two Numbers Without Using Minus Operator - Java)
+
+
+https://youtu.be/06C8LGPrfjU   (Count and Display Total Number of 5 from 1 to 100)
+
+https://youtu.be/1zMD0JRmSIg   (Java program to check palindrome)
+
+https://youtu.be/-pnFM3OYGC0   (Program to sum of digits of a number in java)
+
+
+https://youtu.be/i__gRnVRQeA   (Java program for multiplying digits of number)
+
+https://youtu.be/TjEiif68zhU   (Write a program to convert decimal number into binary format Java)
+
+
+
+https://youtu.be/xsJf4fIBaEk   (How to get Integer maximum and minimum value)
+
+
+
+
+https://youtu.be/8XtscUTSvBU  (Java Program to Reverse a String)
+
+https://youtu.be/ljB_72KZcjM   (Java Program to Check Palindrome String)
+
+https://youtu.be/T_wFPmIHZdM  (Moving The First Character Of A String To The End   Java)
+
+https://youtu.be/DUK1SBP4X04  (Accept Any Word After Double the Vowel Character in Java)
+
+https://youtu.be/zbayYU6vUbQ  (Remove Vowels from a Sentence | Java Example)
+
+
+https://youtu.be/9HiAb-NNfKM   (Java - Find Positions of a Character in a String)
+
+
+
+https://youtu.be/7tILG2UQZ2I   (java - Count the occurrences of a letter in a string)
+
+
+https://youtu.be/vGu648XRboM   (Java Program to Display Armstrong number between 1 to 1000)
+
+
+
+
+https://youtu.be/nzlaqgGGi1Y   (Accept Number and Create table in Java)
+
+
+https://youtu.be/4y6wv5jV9gs   (5,6,9,14,21,30,41,54,69)
+
+https://youtu.be/RxMtbuXSe9U   (Java Interview Question and Answer - 2)
+
+
+https://youtu.be/uLgGjNOQ68o  (Java Interview Question and Answer - 3)
+
+
+
+https://youtu.be/LBuhVUH3Dbg  (Java Interview Question and Answer - 4)
+
+
+https://youtu.be/u7nrNsL5T64  (Count number of vowels, consonants and digits in a String in Java)
+
+
+https://youtu.be/EZVs2Qyvawo   (Java Pyramid 1 Example)
+
+https://youtu.be/1sSjAN2vc7k  (How to Convert Number to Words in Java)
+
+https://youtu.be/f9zTJu2GSxY   (Java Pyramid 2 Example)
+
+https://youtu.be/B9upGQKM3n0  (Java Pyramid 3 Example)
+
+https://youtu.be/xpJdjyekKJg  (Java Pyramid 5 Example)
+
+
+https://youtu.be/M5aJpr49nD0(  Java Pyramid 4 Example)
+
+
+
+
+https://youtu.be/su7HOnYC20k  (Java Pyramid 6 Example)
+
+
+https://youtu.be/p5VQ2_6EaF4  (Java Traingle 1 Example)
+
+https://youtu.be/0mSQcTBQ-zc   (Java Traingle 2 Example)
+
+https://youtu.be/igGgzyT2WLc   (Java Traingle 3 Example)
+
+https://youtu.be/vwCUZVCQZII   (Java Interview Question and Answer - 5)
+
+https://youtu.be/P-JgPTSpTjA  (Java Interview Question and Answer - 6)
+
+https://youtu.be/cyQ6f6LbN8Q   (Java Pyramid 8 Example)
+
+https://youtu.be/y0MIaLn_xbg  (Java Pyramid 9 Example)
+
+
+
+https://youtu.be/BkFCRQ_tBII   (How to Compare Two Strings in Java)
+
+https://youtu.be/CVBR5nmIdiA  (Do While Loop | Java Examples)
+
+
+
+https://youtu.be/GUvqf4_o3TU   (Largest and Second Largest Number - Java)
+
+
+https://youtu.be/Ho5qCW2J2pk   (Find Smallest and Second Smallest Number - Java)
+
+
+https://youtu.be/tMoAIoWEogo   Java Traingle 5 Example
+
+
+
+https://youtu.be/KBD18O6KB1k  Java Traingle 6 Example
+
+
+https://youtu.be/fWLUyztoQBA  (Java - String split() Method)
+
+
+https://youtu.be/hHf7PE7mIkA  (Java Traingle 7 Example)
+
+
+https://youtu.be/k0KSPlzNcNg  (Java Traingle 8 Example)
+
+
+
+
+https://youtu.be/ma1zxCR0K5A  (Arrays - Java)
+
+
+https://youtu.be/SpyXxaCTZyo  (java - Reverse Array Order)
+
+https://youtu.be/PTWv8PT6bQ8  (Java - Finding Primes With An Array)
+
+https://youtu.be/OrU2kK8qTP0  (Reverse Numbers Using Java Arrays)
+
+
+
+
+https://youtu.be/E3CR4RsUYgc  (Two Dimensional Array in Java with Example)
+
+https://youtu.be/0EiuC8DPrBI   (Final Keyword in Java)
+
+
+https://youtu.be/J08KP1R6tkI   (Abstract Method in Java)
+
+https://youtu.be/P-qih5DsYCI  (Java | Counting Numbers in Array)
+
+https://youtu.be/aF4o2YVfexE  (Java Return Index Value If Value Found in Array)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
