@@ -1,0 +1,130 @@
+ Interview questions:
+
+1.(i).Java supports pass by value
+  (ii)  pass by reference 
+Ans. {1} i  is correct
+     (2) ii is correct
+	 (3) i is correct and ii is false
+	 (4) both are correct
+	 (5)i is false and ii is correct
+
+2. (i) Member variables will be stored in the java Heap memory space
+  (ii) A different stack is created at the time thread execution.
+     {1} i  is correct
+     (2) ii is correct
+	 (3) i is correct and ii is false
+	 (4) both are correct
+	 (5)i is false and ii is correct
+
+3. Whic is a keyword
+  (i)integers
+  (ii)string
+  (iii)interface
+  (iv)unsigned
+  
+4.You want a class to have access to members of another class in the same package
+  (i)public
+  (ii)private
+  (iii)protected
+  (iv)default
+  
+5.If none of private/protected/public is specified for a member that member is accessible by the class & its sub class ?
+
+
+6.What is the output  Float num=5/0;
+  (i)Exception
+  (ii)Error
+  (iii)compile time exception
+  (iv)run time exception
+
+7. class A{
+ public static void main(String[] args)
+ {
+  A a =new B();
+ }
+ class B extends A{
+ }
+ what is the output ?
+
+8.class A{
+int x=1;
+ public static void main(String[] args)
+ {
+  System.out.println("x="+x);
+  }
+ (i)Exception
+  (ii)Error
+  (iii)compile time exception
+  (iv)run time exception
+
+
+9. double a1=5;
+   float a2=a1;
+   what is the output ?
+   (i)Exception
+  (ii)5
+  (iii)compile time exception
+  (iv)run time exception
+
+
+10. int num;
+    num=(5+4);
+	num=num/9;
+	num=9;
+  (i)Num
+  (ii)num
+  (iii)1
+  (iv)compile time exception
+
+
+11. class X{
+       public static void main(String[] args){
+	   try{
+	   System.out.println("Hello"+" "+1/0);
+	   }
+	   catch(Exception e){
+	   System.out.println("World");
+	   }
+	   }
+}
+  (i)Hello
+  (ii)World
+  (iii)Hello World
+  (iv)Run time exception
+
+12. class Y{
+       public static void main(String[] args){
+	   try{
+	   System.out.println("Hello"+" "+1/0);
+	   System.out.println("World");
+	   }
+	   catch(Exception e){
+	   e.printStackTrace();
+	   
+	   }
+	   finally{
+	   System.out.println("Hello");
+	   }
+	   }
+}
+  (i)Hello
+  (ii)World
+  (iii)Hello World
+  (iv)Run time exception
+
+
+13.String s1="Hello";
+   String s2=new String(s1);
+   String s3="Hello";
+   System.out.println(s1==s2+" "+s1.equals(s2));
+
+   (i)True 
+  (ii)False 
+  (iii)False True 
+  (iv)True False
+ 
+ 
+ 
+  
+	 
+	 

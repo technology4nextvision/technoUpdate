@@ -1,0 +1,36 @@
+
+Prog-
+1-Write a program to revrse a string without using StringAPI.
+
+2-Change Order of vowels in the string;(eg-"you are cool boy"="yuo era cool boy")
+
+3-Find Missing alfabates in the string.(eg-qwer tyu op asdf gh jl xcv nm ,missing are =ikzb)
+
+technical interview qsn-
+
+1-Different Between Hashmap And Concurrent Hashmap?
+
+2-whats are the enhancements in multithreading in 1.7v of java?
+
+3-what is lambda expression in java?
+
+4-What is Deadlock?
+
+5-What is work of fork/join class in java?
+
+6-What is "WITH" clause in SQL?
+
+7-Spring IOC container?
+
+8-Bean scopes?
+
+9-what are the interfaces spring impliments?
+
+10-difference between @path & URL?
+
+11-Design Pattern catagories ?
+
+12-what is Factory & Singleton Design Pattern& in which catagory they fallunder?
+
+13-How to create Factory object in hibernate?
+
